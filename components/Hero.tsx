@@ -15,7 +15,7 @@ const Hero = () => {
         </h1>
         <p className="hero__subtitle">
           Streamline your car rental experience
-          with our offortless booking process.
+          with our effortless booking process.
         </p>
         <CustomButton
           title="Explore Cars"
@@ -26,8 +26,8 @@ const Hero = () => {
       <div className='hero__image-container'>
         <div className="hero__image">
           <Image src="/hero.png" alt='hero' fill className='object-contain'/>
-          <div className="hero__image-overlay"/>
         </div>
+        <div className="hero__image-overlay"/>
       </div>
     </div>
   )
