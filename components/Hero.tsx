@@ -1,6 +1,6 @@
 "use client";
 import React from 'react'
-import CustomButton from './CustomButton';
+import { CustomButton } from './';
 import Image from 'next/image';
 
 const Hero = () => {
